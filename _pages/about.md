@@ -12,9 +12,9 @@ Welcome on my Webpage! I am a Postdoctoral Researcher the [Institute of Applied 
 
 Currently I am teaching the following courses at Goethe University, Frankfurt:
 
-***Introduction to Accelerator Physics***: [OLAT-Link](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/15168503815)
+*Introduction to Accelerator Physics*: [OLAT-Link](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/15168503815)
 
-Laser Applications in Particle Accelerators: [OLAT-Link](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/15168503817)
+*Laser Applications in Particle Accelerators*: [OLAT-Link](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/15168503817)
 
 
 Useful Links:
