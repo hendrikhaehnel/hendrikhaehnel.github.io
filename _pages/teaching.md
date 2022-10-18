@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Currently I am teaching the following courses:
-===
+==
 
 **Introduction to Accelerator Physics** -> [OLAT-Link](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/15168503815)
 
