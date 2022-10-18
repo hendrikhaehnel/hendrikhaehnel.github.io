@@ -23,7 +23,6 @@ at Goethe University, Frankfurt
 
 Useful Links:
 
-
 [JACoW.org](https://www.jacow.org/) - Conference Proceedings and Upcoming Conferences in the Accelerator World
 
 
